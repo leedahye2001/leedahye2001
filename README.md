@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <br><br>
 -->
 
+<br><br>
 <b>✏ Studying </b>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
