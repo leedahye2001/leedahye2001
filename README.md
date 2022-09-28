@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <!--
-**leedahye2001/leedahye2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,4 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <img src="https://img.shields.io/badge/React-#61DAFB?style=flat&logo=TypeScript&logoColor=white"/>
+
+<div>
+  <img src="https://img.shields.io/badge/HTML5-61DAFB?style=flat&logo=HTML5t&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScriptt&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+</div>
