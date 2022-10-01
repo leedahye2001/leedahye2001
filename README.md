@@ -59,9 +59,10 @@ Here are some ideas to get you started:
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=Vim&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
-
+<!--
 <br><br>
 <b>🔥 Github states </b>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leedahye2001&show_icons=true&theme=tokyonight)
+-->
 </div>
