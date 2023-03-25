@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-1572B6?style=flat&logo=React&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1572B6?style=flat&logo=PHP&logoColor=white)
 
 <br><br>
 
