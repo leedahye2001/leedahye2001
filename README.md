@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&&color=gradient&height=260&fontAlignY=30&fontAlign=70&section=header&text=Frontend%20Developer&fontSize=50&animation=fadeIn&descAlignY=10&desc=Hi%20there%20😄&descAlign=60&rotate=17)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=20&height=260&fontAlignY=30&fontAlign=70&section=header&text=Frontend%20Developer&fontSize=50&animation=fadeIn&descAlignY=12&desc=Hi%20there%20😄&descAlign=60&rotate=17)
 
 <!--
 Here are some ideas to get you started:
