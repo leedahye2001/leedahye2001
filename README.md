@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=20&height=200&fontAlignY=38&fontAlign=70&section=header&text=Frontend%20Developer&fontSize=50&animation=fadeIn&descAlignY=18&desc=Hi%20there%20😄&descAlign=80&rotate=13)
-
 <!--
 Here are some ideas to get you started:
 
