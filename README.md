@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 <b>📩 Contact Me 📩</b>
 
 [![Tech Blog](https://img.shields.io/badge/TechBlog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@leedahye2001/posts)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "leedahye2001@naver.com")
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dahye.dev01@gmail.com)
 </div>
